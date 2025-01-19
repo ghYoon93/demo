@@ -1,0 +1,3 @@
+[submodule "gwedu-gramework-web"]
+	path = gwedu-gramework-web
+	url = https://github.com/remarkablesoft/gwedu_framework_web
